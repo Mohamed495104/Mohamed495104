@@ -1,7 +1,7 @@
 # **I'm Mohamed Ijas**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Agile+SDLC+Experience;Cloud+%7C+MERN+Stack+Developer&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MongoDB+%7C+Express.js+%7C+React+%7C+Node.js;Agile+SDLC+Experience;MERN+Stack+Developer&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 ## 💫 About Me
