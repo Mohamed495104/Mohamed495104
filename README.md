@@ -10,7 +10,7 @@ A Systems Engineer turned into a Full-Stack Developer with hands-on experience i
 - 🎓 Postgraduate Web Development student at Conestoga College  
 - 💼 Former Systems Engineer at Infosys with strong knowledge of **Agile SDLC**, Customer Relationship Management(CRM), and cross-team collaboration  
 - 🚀 I enjoy building **scalable web apps, e-commerce platforms, and digital solutions** that deliver real business impact   
-- ✨ Passionate about turning **Software Development & always excited to explore the tech in deep**  
+- ✨ Passionate about **Software Development & always excited to explore the tech in deep**  
 
 ## 💻 Tech Stack
 
