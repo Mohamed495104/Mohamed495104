@@ -30,7 +30,7 @@
 
 ## 🤖 AI / ML Services
 
-![LLMs](https://img.shields.io/badge/LLM-Applications-black?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLM-black?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-purple?style=for-the-badge)
 ![LLM Fine Tuning](https://img.shields.io/badge/LLM-Fine--Tuning-blue?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
