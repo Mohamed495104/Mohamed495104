@@ -1,7 +1,7 @@
 # 👋 I'm Mohamed Ijas
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+%7C+MERN+%7C+Next.js;AI+Applications+%7C+LLMs+%7C+RAG;Building+Scalable+Web+Applications&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+%7C+MERN+%7C+Next.js;AI+Applications+%7C+LLMs+%7C+RAG;Experience+In+Building+Scalable+Applications&font=Fira%20Code&center=true&width=600&height=50&duration=4000&pause=1000" alt="Typing SVG">
 </div>
 
 ---
@@ -10,20 +10,11 @@
 
 💻 Software Developer with **3+ years of experience building enterprise applications, scalable APIs, and AI-powered systems.**
 
-🚀 I specialize in **Full Stack Development and GenAI applications**, combining modern web technologies with intelligent data systems.
+🚀 I specialized in building and managing **Full Stack and GenAI applications**, combining modern web technologies with AI/ML Services.
 
 🔹 Improved **API performance by 20%** in Mercedes-Benz dealer portal at Infosys  
 🔹 Built **RAG based AI applications (Docbot & SARA)** using LLMs, HuggingFace & Vector Databases  
 🔹 Experience designing **scalable architectures, microservices, and production-ready web applications**
-
-### 🎓 Education
-- **Post-Graduate Certificate – Web Development**  
-  Conestoga College, Canada
-
-- **Bachelor of Technology – Information Technology**  
-  Anna University, India
-
----
 
 # ⚡ What I Work On
 
