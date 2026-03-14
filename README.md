@@ -28,11 +28,15 @@
 
 # 💻 Tech Stack
 
-## 🤖 AI / GenAI
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+## 🤖 AI / ML Services
+
+![LLMs](https://img.shields.io/badge/LLM-Applications-black?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Pipeline-purple?style=for-the-badge)
+![LLM Fine Tuning](https://img.shields.io/badge/LLM-Fine--Tuning-blue?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![Vector Database](https://img.shields.io/badge/Vector-Database-green?style=for-the-badge)
 
 ---
 
