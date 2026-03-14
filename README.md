@@ -28,6 +28,14 @@
 
 # 💻 Tech Stack
 
+## 🤖 AI / GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
+
+---
+
 ## 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -53,13 +61,6 @@
 
 ---
 
-## 🤖 AI / GenAI
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
-![RAG](https://img.shields.io/badge/RAG-Pipeline-purple?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange?style=for-the-badge)
-
----
 
 ## 🗄 Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
