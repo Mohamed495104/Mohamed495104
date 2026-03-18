@@ -124,6 +124,8 @@
 
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16501088/mohamed-ijas)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-pink-phi-izyt63nthy.vercel.app/)
+
 </div>
 
 ---
